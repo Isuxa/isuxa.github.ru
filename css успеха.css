@@ -18,7 +18,7 @@
    padding: 10px;
 }
 .post-item-wrap {
-   background: #4682B4;
+   background: #FFF8DC;
    position: relative;
 }
 .post-item-wrap:after {
@@ -29,7 +29,7 @@
    width: 100%;
    height: 100%;
    z-index: -1;
-   background: #C9F2C7;
+   background: #4682B4;
    transform: rotate(1deg);
    transform-origin: left bottom;
    transition: .3s ease-in-out;
