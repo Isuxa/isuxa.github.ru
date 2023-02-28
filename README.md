@@ -12,8 +12,8 @@
 <div class="post-item">
 <div class="post-item-wrap">
 <a href="" class="post-link">
-<h3 class="post-title">Title</h3>
-<p class="post-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel arcu purus. Duis egestas purus et ex interdum lobortis. Quisque nec magna viverra, interdum dolor at, congue augue. Quisque sed interdum augue, a lacinia nulla. Sed risus nibh, vestibulum eu nisi eu, imperdiet tempor quam.</p>
+<h3 class="post-title">Понятние успеха</h3>
+<p class="post-content">Успех на нашем сайте будет рассчитываться по приобретённым за жизнь предметам пользования: допустим машины, дома и иной капитал</p>
 </a>
 </div>
 </div>
@@ -21,8 +21,8 @@
 <div class="post-item">
 <div class="post-item-wrap">
 <a href="" class="post-link">
-<h3 class="post-title">Title</h3>
-<p class="post-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel arcu purus. Duis egestas purus et ex interdum lobortis. Quisque nec magna viverra, interdum dolor at, congue augue. Quisque sed interdum augue, a lacinia nulla. Sed risus nibh, vestibulum eu nisi eu, imperdiet tempor quam.</p>
+<h3 class="post-title">Сумма успеха</h3>
+<p class="post-content">Сумма успеха подсчитывается как сумма всех материальных ценностей приобретённых за жизнь </p>
 </a>
 </div>
 </div>
@@ -30,8 +30,8 @@
 <div class="post-item">
 <div class="post-item-wrap">
 <a href="" class="post-link">
-<h3 class="post-title">Title</h3>
-<p class="post-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vel arcu purus. Duis egestas purus et ex interdum lobortis. Quisque nec magna viverra, interdum dolor at, congue augue. Quisque sed interdum augue, a lacinia nulla. Sed risus nibh, vestibulum eu nisi eu, imperdiet tempor quam.</p>
+<h3 class="post-title">Препятствия</h3>
+<p class="post-content">Препятсвия - это затраченные внутренние силы, являющиеся совокупностью затраченного времени и проблем набранных за это время</p>
 </a>
 </div>
 </div>
