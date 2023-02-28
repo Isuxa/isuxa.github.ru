@@ -1,4 +1,3 @@
-# isuxa.github.ru
 <html>
 <head>
 <title>Успех</title>
