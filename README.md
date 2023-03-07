@@ -22,7 +22,7 @@
 <div class="portfolio-item">
 <div class="portfolio-item-wrap">
 <a href="">
-<img src="https://html5book.ru/wp-content/uploads/2018/12/natjurmort.jpg">
+<img src="успех!.jpg">
 <div class="portfolio-item-inner">
 <div class="portfolio-heading">
 <h3>Услуги фотографа</h3>
@@ -41,7 +41,7 @@
 <div class="portfolio-item">
 <div class="portfolio-item-wrap">
 <a href="">
-<img src="https://html5book.ru/wp-content/uploads/2018/12/natjurmort.jpg">
+<img src="успех!.jpg">
 <div class="portfolio-item-inner">
 <div class="portfolio-heading">
 <h3>Услуги фотографа</h3>
@@ -57,14 +57,14 @@
 </div>
 </div>
 </div>
+<div class="portfolio-wrap">
+<div class="portfolio-item">
+<div class="portfolio-item-wrap">
+<a href="">
+<img src="успех!.jpg">
 <h1>Понятие успеха</h1>
 <p><h2>Успех-это состояние или условие удовлетворения определенного диапазона ожиданий. Это можно рассматривать как противоположность неудаче. Критерии успеха зависят от контекста и могут быть связаны с конкретным наблюдателем или системой убеждений. Один человек может считать успехом то, что другой считает неудачей, особенно в случаях прямой конкуренции или игры с нулевой суммой.</h2></p>
 <p><h2>В нашем проекте успех рассматривается, как отношение максимальной величины достижений делённой на количество затраченного времени</h2></p>
 <a href="https://ru.wikipedia.org/wiki">Успех</a>
 <img src="успех.jpg" alt="" class="image-border"/>
-<div class="portfolio-wrap">
-<div class="portfolio-item">
-<div class="portfolio-item-wrap">
-<a href="">
-<img src="https://html5book.ru/wp-content/uploads/2018/12/natjurmort.jpg">
 </html>
