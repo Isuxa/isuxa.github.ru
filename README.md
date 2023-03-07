@@ -18,7 +18,6 @@
 </a>
 </div>
 </div>
-
 <div class="portfolio-item">
 <div class="portfolio-item-wrap">
 <a href="">
@@ -37,7 +36,6 @@
 </a>
 </div>
 </div>
-
 <div class="portfolio-item">
 <div class="portfolio-item-wrap">
 <a href="">
