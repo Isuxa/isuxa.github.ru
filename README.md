@@ -1,7 +1,9 @@
 # isuxa.github.ru
 <html>
   <head>
-  <title>Ссылка на сайт</title>
+    <title>Ссылка на сайт</title>
   </head>
-<a href ="main.html">isuxa.github.ru</a>
+<body>
+  <a href ="main.html">isuxa.github.ru</a>
+</body>
 </html>
