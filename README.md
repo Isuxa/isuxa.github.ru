@@ -6,7 +6,7 @@
 </head>
 <div class="portfolio-item-inner">
 <div class="portfolio-heading">
-<h3>Услуги фотографа</h3>
+<h3>Понятие успеха</h3>
 </div>
 <ul>
 <li>Праздники и корпоративы</li>
